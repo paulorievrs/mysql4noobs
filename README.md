@@ -12,7 +12,7 @@ Tutorial para iniciantes no banco de dados MySQL
 ## Introdução
 
 1. [Introdução](./02-Introdução/01-Introducao.md)
-2. [Criando nosso usuário do PostgreSQL](./02-Introdução/02-Projeto.md)
+2. [Projeto](./02-Introdução/02-Projeto.md)
 
 ## SQL
 
