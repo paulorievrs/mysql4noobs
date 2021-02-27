@@ -1,8 +1,3 @@
-# MySQL4Noobs
-
-Tutorial para iniciantes no banco de dados MySQL
-
-
 <h1 align="center">
     <img src="assets/MySQL.svg" width="300" align="center">
     <p>Curso para iniciantes no MySQL</p>
