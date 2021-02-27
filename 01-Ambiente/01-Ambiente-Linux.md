@@ -31,7 +31,7 @@ Isso vai lhe fazer uma serie de perguntas, eu geralmente dou 'N' para ter pouca 
 
 ## Autenticação
 
-Esses próximos passos são para alterar a senha senha ou remove-la, então se você quiser manter a senha que colocou no passo anterior pode já seguir para a <a href="#">primeira página.</a>
+Esses próximos passos são para alterar a senha senha ou remove-la, então se você quiser manter a senha que colocou no passo anterior pode já seguir para a <a href="../02-Introdução/01-Introducao.md">primeira página.</a>
 
 Execute o MySQL como super usuário:
 
@@ -53,4 +53,4 @@ mysql> FLUSH PRIVILEGES;
 mysql> exit;
 ```
 
-Com isso está configurado seu MySQL e pode <a href="../02-Introducao/01-Introducao.md">seguir para o tutorial</a>
+Com isso está configurado seu MySQL e pode <a href="../02-Introdução/01-Introducao.md">seguir para o tutorial</a>

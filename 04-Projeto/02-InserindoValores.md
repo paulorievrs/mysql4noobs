@@ -53,4 +53,4 @@ INSERT INTO ALUNO (matricula, nome, telefone, codigocurso)
 (08, 'Gilberto Alous', '11999999550', 01),
 (09, 'Daniel Reis', '11999999940', 02);
 ```
-<a href="./03-SelecionandoValores">Próximo -></a>
+<a href="./03-SelecionandoValores.md">Próximo -></a>
