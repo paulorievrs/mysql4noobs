@@ -3,10 +3,10 @@
 Tutorial para iniciantes no banco de dados MySQL
 
 
-<div style="text-align: center">
+<h1 align="center">
     <img src="assets/MySQL.svg" width="300" align="center">
     <p>Curso para iniciantes no MySQL</p>
-</div>
+</h1>
 
 ## Pré Requisitos
 
