@@ -2,7 +2,11 @@
 
 Tutorial para iniciantes no banco de dados MySQL
 
-![Logo](assets/MySQL.svg)
+
+<div style="text-align: center">
+    <img src="assets/MySQL.svg" width="300" align="center">
+    <p>Curso para iniciantes no MySQL</p>
+</div>
 
 ## Pré Requisitos
 
@@ -25,6 +29,9 @@ Tutorial para iniciantes no banco de dados MySQL
 1. [Iniciando Projeto](./04-Projeto/01-IniciandoProjeto.md)
 2. [Inserindo Valores](./04-Projeto/02-InserindoValores.md)
 3. [Selecionando Valores](./04-Projeto/03-SelecionandoValores.md)
+4. [Alterando Valores](./04-Projeto/04-AlterandoValores.md)
+5. [Deletando Valres](./04-Projeto/05-DeletandoValores.md)
+6. [Considerações Finais](./04-Projeto/06-ConsideracoesFinais.md)
 
 ## Como Contribuir
 
