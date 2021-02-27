@@ -25,7 +25,7 @@
 2. [Inserindo Valores](./04-Projeto/02-InserindoValores.md)
 3. [Selecionando Valores](./04-Projeto/03-SelecionandoValores.md)
 4. [Alterando Valores](./04-Projeto/04-AlterandoValores.md)
-5. [Deletando Valres](./04-Projeto/05-DeletandoValores.md)
+5. [Deletando Valores](./04-Projeto/05-DeletandoValores.md)
 6. [Considerações Finais](./04-Projeto/06-ConsideracoesFinais.md)
 
 ## Como Contribuir
