@@ -20,7 +20,7 @@ Agora podemos criar suas duas tabelas, de ALUNO e CURSO, na ordem abaixo:
 ## Curso
 
 ```sql
-CREATE TABLE curso (
+CREATE TABLE CURSO (
     codigocurso int,
     nomecurso varchar(100),
     PRIMARY KEY (codigocurso)

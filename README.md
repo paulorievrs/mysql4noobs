@@ -24,6 +24,7 @@ Tutorial para iniciantes no banco de dados MySQL
 
 1. [Iniciando Projeto](./04-Projeto/01-IniciandoProjeto.md)
 2. [Inserindo Valores](./04-Projeto/02-InserindoValores.md)
+3. [Selecionando Valores](./04-Projeto/03-SelecionandoValores.md)
 
 ## Como Contribuir
 
