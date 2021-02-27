@@ -29,9 +29,16 @@ $ sudo mysql_secure_installation
 
 Isso vai lhe fazer uma serie de perguntas, eu geralmente dou 'N' para ter pouca segurança na minha senha, já que vai ser somente um ambiente de desenvolvimento e aí você vai colocar uma senha, pode ser qualquer uma, se você quiser depois irei auxilia-lo a alterar.
 
-## Autenticação
+Para entrar no MySQL você utilizaria:
+
+```
+$ mysql -u root -p
+```
+E ai digite sua senha para entrar e executar comandos.
+
 
 Esses próximos passos são para alterar a senha senha ou remove-la, então se você quiser manter a senha que colocou no passo anterior pode já seguir para a <a href="../02-Introdução/01-Introducao.md">primeira página.</a>
+## Autenticação
 
 Execute o MySQL como super usuário:
 
