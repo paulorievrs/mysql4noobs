@@ -37,7 +37,7 @@ CREATE TABLE ALUNO (
     telefone varchar(11),
     codigocurso int NOT NULL,
     PRIMARY KEY (matricula),
-    FOREIGN KEY (codigocurso) REFERENCES CURSOS(codigocurso)
+    FOREIGN KEY (codigocurso) REFERENCES CURSO(codigocurso)
 );
 ```
 
