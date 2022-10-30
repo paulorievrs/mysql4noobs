@@ -7,6 +7,7 @@
 
 1. [Instalação no Windows](./01-Ambiente/02-Ambiente-Windows.md)
 2. [Instalação no Linux](./01-Ambiente/01-Ambiente-Linux.md)
+3. [Comandos no Terminal](./01-Ambiente/03-Comandos-no-Terminal.md)
 
 ## Introdução
 
