@@ -37,11 +37,14 @@ CREATE TABLE ALUNO (
     telefone varchar(11),
     codigocurso int NOT NULL,
     PRIMARY KEY (matricula),
-    FOREIGN KEY (codigocurso) REFERENCES CURSO(codigocurso)
+    CONSTRAINT codigocurso_fk
+        FOREIGN KEY (codigocurso) REFERENCES CURSO(codigocurso)
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION
 );
 ```
 
-Criamos um aluno, que tem seu número de matrícula com um valor inteiro, seu nome como um valor de VARCHAR limitado a 100 caracteres, um telefone com valor VARCHAR de 11 caracteres e definimos um valor inteiro de codigocurso para armazenarmos o código do curso que o aluno faz parte, e dizemos também que ele não pode ser nulo com a constraint NOT NULL. Além disso, devemos dizer ao SQL que o codigocurso é uma chave estrageira (foreign key) que referencia a tabela cursos no campo codigocurso, coincidentemente com o mesmo nome.
+Criamos um aluno, que tem seu número de matrícula com um valor inteiro, seu nome como um valor de VARCHAR limitado a 100 caracteres, um telefone com valor VARCHAR de 11 caracteres e definimos um valor inteiro de codigocurso para armazenarmos o código do curso que o aluno faz parte, e dizemos também que ele não pode ser nulo com a constraint NOT NULL. Além disso, criamos uma constraint chamada codigocurso_fk, nela dizemos ao SQL que o campo codigocurso será a chave estrangeira (foreign key) que referencia a tabela cursos no campo codigocurso, coincidentemente com o mesmo nome. As duas ultimas linhas informam que ao dar um UPDATE ou um DELETE na tabela CURSO, nenhuma ação será executada.
 
 Com isso, você pode verificar as tabelas existentes no seu banco com o comando:
 

@@ -5,11 +5,11 @@ Vamos criar a tabela para conter as diciplinas do curso. Lembrando que uma disci
 Digite:
 
 ```sql
-CREATE TABLE DICIPLINA (
-    codigodiciplina int,
+CREATE TABLE DISCIPLINA (
+    codigodisciplina int,
     nome varchar(30),
     codigocurso int,
-    PRIMARY KEY (codigocurso)
+    PRIMARY KEY (codigodisciplina),
 
     CONSTRAINT codigocurso
         FOREIGN KEY (codigocurso)
