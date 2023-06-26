@@ -14,7 +14,7 @@ INSERT INTO CURSO (codigocurso, nomecurso)
 (01, 'Ciência da Computação');
 ```
 
-Tabela:
+**Tabela CURSOS:**
 
 |codigocurso|nomecurso                            |
 |-----------|-------------------------------------|
@@ -34,6 +34,7 @@ INSERT INTO CURSO (codigocurso, nomecurso)
 (05, 'Sistemas de Informação');
 ```
 
+**Tabela CURSOS:**
 |codigocurso|nomecurso                            |
 |-----------|-------------------------------------|
 |01         |Ciência da Computação|
@@ -49,8 +50,13 @@ Como em cursos:
 ```sql
 INSERT INTO ALUNO (matricula, nome, telefone, codigocurso)
     VALUES
-(6334, 'Jose Neutro', '11999999999', 01);
+(01, 'Jose Neutro', '11999999999', 01);
 ```
+
+**Tabela ALUNOS:**
+|matricula|nome       |telefone    |codigocurso|
+|---------|-----------|------------|-----------|
+|01       |Jose Neutro|11999999999o|01         |
 
 Nesse caso, registramos o aluno Jose Neutro no Curso de Ciência da Computação utilizando seu código de curso.
 
@@ -68,4 +74,19 @@ INSERT INTO ALUNO (matricula, nome, telefone, codigocurso)
 (08, 'Gilberto Alous', '11999999550', 01),
 (09, 'Daniel Reis', '11999999940', 02);
 ```
+
+**Tabela ALUNOS:**
+|matricula|nome           |telefone   |codigocurso|
+|---------|---------------|-----------|-----------|
+|01       |Jose Neutro    |11999999999|01         |
+|02       |Jose Amazias   |11999999990|02         |
+|03       |Jose Oliveira  |11999999980|03         |
+|04       |Pedro Amazias  |11999999900|03         |
+|05       |Lucas Fernandes|11999999970|05         |
+|06       |Paulo Oliveira |11999999960|04         |
+|07       |Rodrigo Silva  |11999999770|04         |
+|08       |Gilberto Alous |11999999550|01         |
+|09       |Daniel Reis    |11999999940|02         |
+
+
 <a href="./03-SelecionandoValores.md">Próximo -></a>
