@@ -57,6 +57,7 @@ INSERT INTO ALUNO (matricula, nome, telefone, codigocurso)
 |matricula|nome       |telefone    |codigocurso|
 |---------|-----------|------------|-----------|
 |01       |Jose Neutro|11999999999o|01         |
+<br>
 
 Nesse caso, registramos o aluno Jose Neutro no Curso de Ciência da Computação utilizando seu código de curso.
 
@@ -87,6 +88,6 @@ INSERT INTO ALUNO (matricula, nome, telefone, codigocurso)
 |07       |Rodrigo Silva  |11999999770|04         |
 |08       |Gilberto Alous |11999999550|01         |
 |09       |Daniel Reis    |11999999940|02         |
-
+<br>
 
 <a href="./03-SelecionandoValores.md">Próximo -></a>
