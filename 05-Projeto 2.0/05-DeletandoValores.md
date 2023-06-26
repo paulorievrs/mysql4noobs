@@ -1,6 +1,6 @@
 # Deletando Valores
 
-Podemos deletar valores de nossas tabelas caso fossem inseridos erroneamente ou que não vão ser mais utilizados. Vamos começar removendo um aluno:
+Vamos deletar 
 
 ```sql
 DELETE FROM ALUNO WHERE matricula = 6334;

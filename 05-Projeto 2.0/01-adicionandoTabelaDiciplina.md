@@ -1,4 +1,4 @@
-# Adicionando tabela 'DICIPLINA'
+# Adicionando a tabela 'DISCIPLINA'
 
 Vamos criar a tabela para conter as diciplinas do curso. Lembrando que uma disciplina vai pertencer a um curso, porém um curso poderá ter mais de uma disciplina.
 
