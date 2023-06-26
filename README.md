@@ -22,12 +22,20 @@
 
 ## Projeto
 
-1. [Iniciando Projeto](./04-Projeto/01-IniciandoProjeto.md)
-2. [Inserindo Valores](./04-Projeto/02-InserindoValores.md)
-3. [Selecionando Valores](./04-Projeto/03-SelecionandoValores.md)
-4. [Alterando Valores](./04-Projeto/04-AlterandoValores.md)
-5. [Deletando Valores](./04-Projeto/05-DeletandoValores.md)
-6. [Considerações Finais](./04-Projeto/06-ConsideracoesFinais.md)
+1. [Iniciando Projeto](./04-Projeto_part1/01-IniciandoProjeto.md)
+2. [Inserindo Valores](./04-Projeto_part1/02-InserindoValores.md)
+3. [Selecionando Valores](./04-Projeto_part1/03-SelecionandoValores.md)
+4. [Alterando Valores](./04-Projeto_part1/04-AlterandoValores.md)
+5. [Deletando Valores](./04-Projeto_part1/05-DeletandoValores.md)
+6. [Considerações Finais](./04-Projeto_part1/06-ConsideracoesFinais.md)
+
+## Projeto 2.0
+
+1. [Iniciando Projeto](./04-Projeto_part2/01-IniciandoProjeto.md)
+2. [Inserindo Valores](./04-Projeto_part2/02-InserindoValores.md)
+3. [Selecionando Valores](./04-Projeto_part2/03-SelecionandoValores.md)
+4. [Deletando Valores](./04-Projeto_part2/05-DeletandoValores.md)
+5. [Considerações Finais](./04-Projeto_part2/06-ConsideracoesFinais.md)
 
 ## Como Contribuir
 
