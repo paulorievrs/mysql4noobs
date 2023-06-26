@@ -20,7 +20,7 @@
 2. [Constraints](./03-SQL/02-Constraints.md)
 3. [Comandos Básicos](./03-SQL/03-ComandosBasicos.md)
 
-## Projeto
+## Projeto parte 1
 
 1. [Iniciando Projeto](./04-Projeto_part1/01-IniciandoProjeto.md)
 2. [Inserindo Valores](./04-Projeto_part1/02-InserindoValores.md)
@@ -29,7 +29,7 @@
 5. [Deletando Valores](./04-Projeto_part1/05-DeletandoValores.md)
 6. [Considerações Finais](./04-Projeto_part1/06-ConsideracoesFinais.md)
 
-## Projeto 2.0
+## Projeto parte 2
 
 1. [Iniciando Projeto](./04-Projeto_part2/01-IniciandoProjeto.md)
 2. [Inserindo Valores](./04-Projeto_part2/02-InserindoValores.md)
