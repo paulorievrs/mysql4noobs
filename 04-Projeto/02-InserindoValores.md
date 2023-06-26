@@ -14,6 +14,13 @@ INSERT INTO CURSO (codigocurso, nomecurso)
 (01, 'Ciência da Computação');
 ```
 
+Tabela:
+
+|codigocurso|nomecurso                            |
+|-----------|-------------------------------------|
+|01         |Ciência da Computação|
+
+
 Nesse caso inserimos o curso Ciência da Computação com seu respectivo código de curso 01.
 
 Se você tiver vários dados é possível inserir vários com um comando como por exemplo:
@@ -26,6 +33,14 @@ INSERT INTO CURSO (codigocurso, nomecurso)
 (04, 'Engenharia de Software'),
 (05, 'Sistemas de Informação');
 ```
+
+|codigocurso|nomecurso                            |
+|-----------|-------------------------------------|
+|01         |Ciência da Computação|
+|02         |Analise e Desenvolvimento de Sistemas|
+|03         |Engenharia da Computação|
+|04         |Engenharia de Software|
+|05         |Sistemas da Informação|
 
 ## Alunos
 
