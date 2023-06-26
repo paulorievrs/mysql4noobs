@@ -3,9 +3,9 @@
 Podemos deletar valores de nossas tabelas caso fossem inseridos erroneamente ou que não vão ser mais utilizados. Vamos começar removendo um aluno:
 
 ```sql
-DELETE FROM ALUNO WHERE matricula = 6334;
+DELETE FROM ALUNO WHERE matricula = 01;
 ```
-Deletamos exclusivamente o aluno de matrícula 6334, se não utilizassemos o comando WHERE deletariamos todos os alunos da tabela.
+Deletamos exclusivamente o aluno de matrícula 01, se não utilizassemos o comando WHERE deletariamos todos os alunos da tabela.
 
 Vamos agora deletar um curso.
 

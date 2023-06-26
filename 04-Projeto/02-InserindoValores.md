@@ -34,7 +34,7 @@ INSERT INTO CURSO (codigocurso, nomecurso)
 (05, 'Sistemas de Informação');
 ```
 
-**Tabela CURSOS:**
+**Tabela CURSO:**
 |codigocurso|nomecurso                            |
 |-----------|-------------------------------------|
 |01         |Ciência da Computação|
@@ -75,7 +75,7 @@ INSERT INTO ALUNO (matricula, nome, telefone, codigocurso)
 (09, 'Daniel Reis', '11999999940', 02);
 ```
 
-**Tabela ALUNOS:**
+**Tabela ALUNO:**
 |matricula|nome           |telefone   |codigocurso|
 |---------|---------------|-----------|-----------|
 |01       |Jose Neutro    |11999999999|01         |
